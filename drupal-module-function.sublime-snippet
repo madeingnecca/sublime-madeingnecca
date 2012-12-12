@@ -1,0 +1,10 @@
+<snippet>
+  <tabTrigger>dfun</tabTrigger>
+  <content><![CDATA[/**
+ * ${1:Comment about this good stuff here}
+ */
+function ${TM_FILENAME/([^.]*)\..*$/$1/}_${2:function_name}($3) {
+  ${4://@TODO: write good stuff here.}
+}
+]]></content>
+</snippet>
