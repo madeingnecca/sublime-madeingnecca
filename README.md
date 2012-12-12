@@ -1,4 +1,4 @@
-sublime-madeingnecca-snippets
-=============================
+Madeingnecca Snippets
+=====================
 
-Collection of Sublime Text 2 snippets.
+This repo will host my collection of Sublime Text 2 snippets.
