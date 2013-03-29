@@ -1,10 +1,10 @@
 <snippet>
    <content><![CDATA[
-Drupal.behaviors.${1:this} = {
+Drupal.behaviors.${1:awesome_behavior} = {
   attach: function(context, settings) {
     ${2}
   }
-}
+};
 ]]></content>
   <tabTrigger>drupalbehavior</tabTrigger>
   <scope>source.js</scope>
