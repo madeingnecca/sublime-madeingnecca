@@ -1,35 +1,36 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery.js",
-		"jquery.min": "http://code.jquery.com/jquery.min.js",
-		"jquery-cookie": "https://raw.github.com/carhartl/jquery-cookie/master/jquery.cookie.js",
-		"backbone": "http://documentcloud.github.com/backbone/backbone.js",
-		"backbone.min": "http://documentcloud.github.com/backbone/backbone-min.js",
-		"underscore": "http://documentcloud.github.com/underscore/underscore.js",
-		"underscore.min": "http://documentcloud.github.com/underscore/underscore-min.js",
-		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
 		"960.gs": "http://grids.heroku.com/grid.css?column_width=60&column_amount=12&gutter_width=20",
-		"Cycle": "http://malsup.github.com/jquery.cycle.all.js",
-		"Select as Cycle": "https://raw.github.com/madeingnecca/jquery.select-as-cycle/master/jquery.select-as-cycle.js",
 		"Chosen": "https://raw.github.com/harvesthq/chosen/master/chosen/chosen.jquery.min.js",
 		"Chosen Create Option": "https://raw.github.com/koenpunt/chosen/option_adding/chosen/chosen.jquery.min.js",
+		"Cycle": "http://malsup.github.com/jquery.cycle.all.js",
 		"Placeholder": "https://raw.github.com/mathiasbynens/jquery-placeholder/master/jquery.placeholder.min.js",
+		"Select as Cycle": "https://raw.github.com/madeingnecca/jquery.select-as-cycle/master/jquery.select-as-cycle.js",
+		"backbone": "http://documentcloud.github.com/backbone/backbone.js",
+		"backbone.min": "http://documentcloud.github.com/backbone/backbone-min.js",
 		"jQuery Validate": "https://raw.github.com/DiegoLopesLima/Validate/master/jquery-validate.min.js",
-		"jQuery equalheights": "https://raw.github.com/mattbanks/jQuery.equalHeights/master/jquery.equalheights.min.js"
+		"jQuery equalheights": "https://raw.github.com/mattbanks/jQuery.equalHeights/master/jquery.equalheights.min.js",
+		"jquery": "http://code.jquery.com/jquery.js",
+		"jQuery UI All": "http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js",
+		"jquery.min": "http://code.jquery.com/jquery.min.js",
+		"jquery-cookie": "https://raw.github.com/carhartl/jquery-cookie/master/jquery.cookie.js",
+		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
+		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"underscore": "http://documentcloud.github.com/underscore/underscore.js",
+		"underscore.min": "http://documentcloud.github.com/underscore/underscore-min.js"
 	},
 	"packages":
 	{
+		"Ckeditor 3.6": "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip",
+		"Colorbox": "https://github.com/jackmoore/colorbox/archive/master.zip",
+		"Facebook PHP SDK": "https://github.com/facebook/facebook-php-sdk/archive/master.zip",
+		"PHP Slim": "https://github.com/codeguy/Slim/zipball/master",
+		"PHPMailer": "https://github.com/Synchro/PHPMailer/archive/master.zip",
+		"Twitter Bootstrap": "http://twitter.github.io/bootstrap/assets/bootstrap.zip",
 		"WordPress": "http://wordpress.org/latest.zip",
 		"drupal7": "https://github.com/drupal/drupal/archive/7.x.zip",
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"Twitter Bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
-		"Colorbox": "https://github.com/jackmoore/colorbox/archive/master.zip",
-		"qTip": "http://craigsworks.com/projects/qtip/download/package/production",
-		"PHPMailer": "https://github.com/Synchro/PHPMailer/archive/master.zip",
-		"Ckeditor 3.6": "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip",
-		"PHP Slim": "https://github.com/codeguy/Slim/zipball/master",
-		"Facebook PHP SDK": "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
+		"qTip": "http://craigsworks.com/projects/qtip/download/package/production"
 	}
 }
