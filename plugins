@@ -5,7 +5,6 @@ BracketHighlighter
 Build Switcher
 Calculate
 Color Highlighter
-Color Scheme - Default
 ConvertToUTF8
 CSS Sections
 CSScomb
@@ -22,13 +21,11 @@ Less2Css
 Markdown Preview
 Minifier
 Nettuts+ Fetch
-OCaml
 OpenWith
 Package Control
 Pane Navigation
 PlainTasks
 SFTP
-ShellScript
 SideBarEnhancements
 StringEncode
 sublime-fillerati
