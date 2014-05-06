@@ -3,5 +3,5 @@
 #!/usr/bin/env ${1:bash}
 ]]></content>
   <tabTrigger>sheb</tabTrigger>
-  <scope>source.bash</scope>
+  <scope>source.shell</scope>
 </snippet>
